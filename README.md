@@ -2,13 +2,10 @@
 
 <img src="./banner.svg" alt="Gustavo Cintra, Founder e software engineer com IA" width="100%"/>
 
-<a href="https://github.com/SEU_USUARIO"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=[...]" alt="Typing SVG" /></a>
+<a href="https://github.com/gustabuilds"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Founder+e+Software+Engineer+com+IA;Problemas+reais,+produtos+reais,+resultados+reais" alt="Founder e software engineer com IA" /></a>
 
 <br/>
-
-
-<br/><br/>
-
+<br/>
 
 </div>
 
@@ -18,9 +15,9 @@
 
 ## Fala parceiro(a)! Suave?
 
-meu nome é Gustavo Cintra, Startup's Founder e  Software Engineer. Construo sistemas com IA no centro do processo: parto de um problema real, monto a primeira versão rápido e coloco no ar para ver [...]
+Meu nome é Gustavo Cintra, founder e software engineer com IA. Construo sistemas a partir de problemas reais, monto a primeira versão rápido e coloco no ar para aprender com uso, feedback e dados.
 
-Penso primeiro em problema, cliente e distribuição, e só depois em tela. A IA entrega a velocidade, e eu cuido da decisão sobre o que construir e para quem.
+Penso primeiro em problema, cliente e distribuição, e só depois em tela. A IA entrega velocidade; eu cuido da decisão sobre o que construir e para quem.
 
 <div align="center">
 
@@ -48,14 +45,10 @@ Penso primeiro em problema, cliente e distribuição, e só depois em tela. A IA
 | **04** | **Refino** | No Claude Code reviso, corrijo e evoluo o produto. |
 | **05** | **Deploy** | Publico, acompanho o uso e volto à etapa 01 com dados reais. |
 
-</details>
-
-
-
-
 <br/>
 
 ## Estou disponível:
+
 <br>
 <div align="left">
 
