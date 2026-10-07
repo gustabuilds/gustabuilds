@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Gustavo Cintra, Software Engineer com IA">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a0d"/>
+      <stop offset="1" stop-color="#16161d"/>
+    </linearGradient>
+    <radialGradient id="orbA">
+      <stop offset="0" stop-color="#6e7bff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#6e7bff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB">
+      <stop offset="0" stop-color="#1db954" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1db954" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="340" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+
+    <circle r="280" fill="url(#orbA)" cx="0" cy="0" transform="translate(160 70)">
+      <animateTransform attributeName="transform" type="translate"
+        values="160 70; 340 150; 220 40; 160 70" dur="16s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.4;0.75;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+    <circle r="260" fill="url(#orbB)" cx="0" cy="0" transform="translate(1060 300)">
+      <animateTransform attributeName="transform" type="translate"
+        values="1060 300; 900 210; 1100 220; 1060 300" dur="18s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.4;0.75;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+
+    <rect x="-400" y="336" width="400" height="2" fill="url(#shine)">
+      <animate attributeName="x" values="-400;1200" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="27.5" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+
+  <circle cx="84" cy="96" r="5" fill="#1db954">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="5;6.5;5" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="102" y="101" opacity="0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#9a9aa6" letter-spacing="1.5">ONLINE · CONSTRUINDO COM IA<animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.9s" fill="freeze"/></text>
+
+  <g transform="translate(0 18)">
+    <animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" begin="0.25s" dur="1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <text x="80" y="188" opacity="0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#f5f5f7" letter-spacing="-2">Gustavo Cintra<animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="1s" fill="freeze"/></text>
+  </g>
+
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#a1a1aa">
+    <text x="82" y="238">Software engineer com IA<animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.28;0.33;0.94;0.99;1" dur="10s" repeatCount="indefinite"/></text>
+    <text x="82" y="238" opacity="0">Claude Code · Lovable · Supabase<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.28;0.33;0.61;0.66;1" dur="10s" repeatCount="indefinite"/></text>
+    <text x="82" y="238" opacity="0">Maluco por tecnologia e por música<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.61;0.66;0.94;0.99;1" dur="10s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
