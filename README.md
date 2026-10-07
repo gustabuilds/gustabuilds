@@ -1,8 +1,8 @@
-<div align="center">
+<div align="center"> <img src="./assets/banner.svg" alt="Gustavo Cintra, Software Engineer com IA" width="100%"/>
 
-<img src="./assets/banner.svg" alt="Gustavo Cintra, Software Engineer com IA" width="100%"/>
+<a href="https://github.com/SEU_USUARIO"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=1ED760&center=true&vCenter=true&width=700&lines=Construo+software+com+IA+no+centro+do+processo;Claude+Code+%C2%B7+Lovable+%C2%B7+Supabase;Sess%C3%A3o+de+c%C3%B3digo+boa+tem+playlist+boa" alt="Texto animado"/></a>
 
-<br/>
+<br/> <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/Lovable-111111?style=for-the-badge&logo=heart&logoColor=ff4d8d" alt="Lovable"/> <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/> <img src="https://img.shields.io/badge/Spotify-111111?style=for-the-badge&logo=spotify&logoColor=1ED760" alt="Spotify"/> <br/> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=1ed760&style=flat-square&labelColor=111111" alt="Contador de visitas"/> &nbsp; <img src="https://img.shields.io/badge/Cuiab%C3%A1-MT-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Cuiabá, MT"/> </div> <br/>
 
 **Claude Code** &nbsp;·&nbsp; **Lovable** &nbsp;·&nbsp; **Supabase** &nbsp;·&nbsp; **Spotify**
 
