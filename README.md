@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Gustavo Cintra, Founder e software engineer com IA" width="100%"/>
+<img src="./banner.svg" alt="Gustavo Cintra, Founder e software engineer com IA" width="100%"/>
 
-<a href="https://github.com/SEU_USUARIO"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Founder+construindo+produtos+com+IA;Da+ideia+ao+produto+no+ar;Sess%C3%A3o+boa+tem+playlist+boa" alt="Frases animadas"/></a>
+<a href="https://github.com/SEU_USUARIO"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=[...]" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## Fala parceiro(a)! Suave?
 
-meu nome é Gustavo Cintra, Startup's Founder e  Software Engineer. Construo sistemas com IA no centro do processo: parto de um problema real, monto a primeira versão rápido e coloco no ar para ver o que as pessoas fazem com ela.
+meu nome é Gustavo Cintra, Startup's Founder e  Software Engineer. Construo sistemas com IA no centro do processo: parto de um problema real, monto a primeira versão rápido e coloco no ar para ver [...]
 
 Penso primeiro em problema, cliente e distribuição, e só depois em tela. A IA entrega a velocidade, e eu cuido da decisão sobre o que construir e para quem.
 
@@ -34,7 +34,7 @@ Penso primeiro em problema, cliente e distribuição, e só depois em tela. A IA
 
 ## Como eu construo:
 
-<img src="./assets/process.svg" alt="Processo em cinco etapas: problema, protótipo, dados, refino e deploy" width="100%"/>
+<img src="./process.svg" alt="Processo em cinco etapas: problema, protótipo, dados, refino e deploy" width="100%"/>
 
 ## O que acontece em cada etapa:
 
