@@ -32,12 +32,11 @@ Penso primeiro em problema, cliente e distribuição, e só depois em tela. A IA
 
 <br/>
 
-## Como eu construo
+## Como eu construo:
 
 <img src="./assets/process.svg" alt="Processo em cinco etapas: problema, protótipo, dados, refino e deploy" width="100%"/>
 
-<details>
-<summary><b>Ver o que acontece em cada etapa</b></summary>
+## O que acontece em cada etapa:
 
 <br/>
 
@@ -51,18 +50,14 @@ Penso primeiro em problema, cliente e distribuição, e só depois em tela. A IA
 
 </details>
 
-<br/>
 
 
 
 <br/>
 
-
-<br/>
-
-## Disponível para
-
-<div align="center">
+## Estou disponível:
+<br>
+<div align="left">
 
 | Sites e landing pages | Produtos com IA | Parcerias |
 |:-:|:-:|:-:|
