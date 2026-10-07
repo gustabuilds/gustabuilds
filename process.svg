@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Processo: problema, protótipo, dados, refino, deploy">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#3b82f6" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#1d4ed8" stop-opacity="0.2"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#93c5fd" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="230" rx="24" fill="#080d1f"/>
+  <rect x="0.5" y="0.5" width="1199" height="229" rx="23.5" fill="none" stroke="#93c5fd" stroke-opacity="0.14"/>
+
+  <line x1="120" y1="92" x2="1080" y2="92" stroke="url(#line)" stroke-width="2"/>
+
+  <circle r="22" fill="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M120 92 L1080 92"/>
+  </circle>
+  <circle r="5" fill="#dbeafe">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M120 92 L1080 92"/>
+  </circle>
+
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <!-- 01 -->
+    <circle cx="120" cy="92" r="34" fill="none" stroke="#60a5fa" stroke-width="2" opacity="0.15">
+      <animate attributeName="opacity" values="0.15;1;0.15;0.15" keyTimes="0;0.05;0.35;1" dur="6s" begin="-0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="92" r="26" fill="#0f1a3a" stroke="#3b82f6" stroke-opacity="0.6"/>
+    <text x="120" y="98" font-size="17" font-weight="700" fill="#dbeafe">01</text>
+    <text x="120" y="150" font-size="20" font-weight="600" fill="#f5f7ff">Problema</text>
+    <text x="120" y="176" font-size="14" fill="#93a4c4">quem sofre e quanto</text>
+
+    <!-- 02 -->
+    <circle cx="360" cy="92" r="34" fill="none" stroke="#60a5fa" stroke-width="2" opacity="0.15">
+      <animate attributeName="opacity" values="0.15;1;0.15;0.15" keyTimes="0;0.05;0.35;1" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="360" cy="92" r="26" fill="#0f1a3a" stroke="#3b82f6" stroke-opacity="0.6"/>
+    <text x="360" y="98" font-size="17" font-weight="700" fill="#dbeafe">02</text>
+    <text x="360" y="150" font-size="20" font-weight="600" fill="#f5f7ff">Protótipo</text>
+    <text x="360" y="176" font-size="14" fill="#93a4c4">Lovable</text>
+
+    <!-- 03 -->
+    <circle cx="600" cy="92" r="34" fill="none" stroke="#60a5fa" stroke-width="2" opacity="0.15">
+      <animate attributeName="opacity" values="0.15;1;0.15;0.15" keyTimes="0;0.05;0.35;1" dur="6s" begin="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="92" r="26" fill="#0f1a3a" stroke="#3b82f6" stroke-opacity="0.6"/>
+    <text x="600" y="98" font-size="17" font-weight="700" fill="#dbeafe">03</text>
+    <text x="600" y="150" font-size="20" font-weight="600" fill="#f5f7ff">Dados</text>
+    <text x="600" y="176" font-size="14" fill="#93a4c4">Supabase</text>
+
+    <!-- 04 -->
+    <circle cx="840" cy="92" r="34" fill="none" stroke="#60a5fa" stroke-width="2" opacity="0.15">
+      <animate attributeName="opacity" values="0.15;1;0.15;0.15" keyTimes="0;0.05;0.35;1" dur="6s" begin="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="840" cy="92" r="26" fill="#0f1a3a" stroke="#3b82f6" stroke-opacity="0.6"/>
+    <text x="840" y="98" font-size="17" font-weight="700" fill="#dbeafe">04</text>
+    <text x="840" y="150" font-size="20" font-weight="600" fill="#f5f7ff">Refino</text>
+    <text x="840" y="176" font-size="14" fill="#93a4c4">Claude Code</text>
+
+    <!-- 05 -->
+    <circle cx="1080" cy="92" r="34" fill="none" stroke="#60a5fa" stroke-width="2" opacity="0.15">
+      <animate attributeName="opacity" values="0.15;1;0.15;0.15" keyTimes="0;0.05;0.35;1" dur="6s" begin="5.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="92" r="26" fill="#0f1a3a" stroke="#3b82f6" stroke-opacity="0.6"/>
+    <text x="1080" y="98" font-size="17" font-weight="700" fill="#dbeafe">05</text>
+    <text x="1080" y="150" font-size="20" font-weight="600" fill="#f5f7ff">Deploy</text>
+    <text x="1080" y="176" font-size="14" fill="#93a4c4">no ar e medindo</text>
+  </g>
+</svg>

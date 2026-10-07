@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="Divisor">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bfdbfe" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#dbeafe" stop-opacity="1"/>
+      <stop offset="1" stop-color="#bfdbfe" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11" width="1200" height="2" fill="url(#base)"/>
+  <rect x="-240" y="10" width="240" height="4" rx="2" fill="url(#spark)">
+    <animate attributeName="x" values="-240;1200" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
