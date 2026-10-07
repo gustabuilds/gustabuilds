@@ -2,9 +2,8 @@
 
 <img src="./banner.svg" alt="Gustavo Cintra, Founder e software engineer com IA" width="100%"/>
 
-<a href="https://github.com/gustabuilds"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Founder+e+Software+Engineer+com+IA;Problemas+reais,+produtos+reais,+resultados+reais" alt="Founder e software engineer com IA" /></a>
 
-<br/>
+
 <br/>
 
 </div>
